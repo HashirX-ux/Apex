@@ -57,8 +57,26 @@ So here are my main components that I am gonna use for my keyboard:
 7- Reset Swtich
 <br>
 
-Now I gotta understand all of the datasheeeets.. Lets start by nicennao.. Wish me luck gngng..
-
+Now I gotta understand all of the datasheeeets.. Lets start by nicennao.. Wish me luck gngng..I am gonna use the official nicennao doc for this research: 
+<br>
+https://nicekeyboards.com/docs/nice-nano/
+<br>
+Found this keyboard config guide: https://www.nextpcb.com/blog/how-to-design-mechanical-keyboard-pcbs-with-kicad
+<img width="1047" height="506" alt="image" src="https://github.com/user-attachments/assets/58e9b140-1ae1-48ea-bfce-d7a53232b9d1" />
+<br>
+One of the best guide I found out there gng .. 
+<br>
+https://www.modmusings.com/how-to-build-a-mechanical-keyboard
+<br>
+Thanks again the og documentation.. This is gonna help alot
+<img width="1212" height="835" alt="image" src="https://github.com/user-attachments/assets/0ae09b64-4409-4e99-a061-736c0829dd5c" />
+<br>
+So this is the schematic for the OLED i am gonna use its OLED 0.91: 
+<img width="858" height="575" alt="image" src="https://github.com/user-attachments/assets/45ab2a71-4039-4b8d-84fb-1f816c120f60" />
+<br>
+Didnt expected my rotary encoder to look like this under the hood: 
+<img width="800" height="631" alt="image" src="https://github.com/user-attachments/assets/045d8c6d-ac0a-4945-b912-8e3cd67298d1" />
+<br>
 
 
 
