@@ -43,6 +43,9 @@ So here are my main components that I am gonna use for my keyboard:
 <img width="449" height="439" alt="image" src="https://github.com/user-attachments/assets/1661b7cc-5ccc-4ee1-b79b-0ee8df900e3f" />
 <br>
 
+5- Buzzer
+<img width="436" height="236" alt="image" src="https://github.com/user-attachments/assets/bf576351-0752-4a62-887f-3f763af392a3" />
+
 5- Diodes
 <img width="587" height="554" alt="image" src="https://github.com/user-attachments/assets/20cb6bb7-d962-40d3-af81-3c8e614e1da0" />
 <br>
@@ -53,6 +56,8 @@ So here are my main components that I am gonna use for my keyboard:
 
 7- Reset Swtich
 <br>
+
+Now I gotta understand all of the datasheeeets.. Lets start by nicennao.. Wish me luck gngng..
 
 
 
