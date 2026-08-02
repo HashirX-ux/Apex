@@ -80,7 +80,9 @@ Didnt expected my rotary encoder to look like this under the hood:
 This would really help in designing the 3D cover case for my keyboard.. 
 <img width="1201" height="709" alt="image" src="https://github.com/user-attachments/assets/2ba200f8-90b2-452b-b4ac-22423e49b47e" />
 <br>
-
+YOOO gng i think I just found a goldmine thank god i was looking for this: 
+https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/
+<br>
 
 
 
