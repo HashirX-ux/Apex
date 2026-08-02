@@ -77,6 +77,9 @@ So this is the schematic for the OLED i am gonna use its OLED 0.91:
 Didnt expected my rotary encoder to look like this under the hood: 
 <img width="800" height="631" alt="image" src="https://github.com/user-attachments/assets/045d8c6d-ac0a-4945-b912-8e3cd67298d1" />
 <br>
+This would really help in designing the 3D cover case for my keyboard.. 
+<img width="1201" height="709" alt="image" src="https://github.com/user-attachments/assets/2ba200f8-90b2-452b-b4ac-22423e49b47e" />
+<br>
 
 
 
