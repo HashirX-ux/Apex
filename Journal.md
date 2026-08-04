@@ -82,8 +82,18 @@ This would really help in designing the 3D cover case for my keyboard..
 <br>
 YOOO gng i think I just found a goldmine thank god i was looking for this: 
 https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/
+So Now I am Done with the research I am gonna start building the shcmeatic of my keyvaord and then The Final PCB design.. Wish me luck boisss.. 
 <br>
+### 2026-02-08 - First Journal Entry
 
+**What I did today:**
+So Today I am gonna start building the shcematic of my keyboard.. I am gonna use the official guide from PCBWay and JLCPCB for their keyboard design guide: 
+<br>
+https://jlcpcb.com/blog/pcb-keyboards-design-guide
+<br>
+So I am gonna build the schematic using this layout: 
+![Uploading image.png…]()
+<br>
 
 
 
