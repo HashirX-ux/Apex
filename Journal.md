@@ -100,6 +100,8 @@ The MCU looks good.. its nice and nano nicenano!!!
 So this is my first key and I have to compleye like 112 of them.. wish me luck gng: 
 <img width="547" height="393" alt="image" src="https://github.com/user-attachments/assets/7b4b30f2-5739-4781-9986-5498e67606a2" />
 <br>
+So far so good gng yayay: 
+<img width="862" height="500" alt="image" src="https://github.com/user-attachments/assets/09e50d82-f166-48fe-b86c-fdafd9d43f70" />
 
 
 
