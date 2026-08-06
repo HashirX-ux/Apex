@@ -92,8 +92,21 @@ So Today I am gonna start building the shcematic of my keyboard.. I am gonna use
 https://jlcpcb.com/blog/pcb-keyboards-design-guide
 <br>
 So I am gonna build the schematic using this layout: 
-![Uploading image.png…]()
+<img width="615" height="342" alt="image" src="https://github.com/user-attachments/assets/27d35a95-1f77-43a8-ae66-ce40552cf058" />
 <br>
+The MCU looks good.. its nice and nano nicenano!!!
+<img width="568" height="664" alt="image" src="https://github.com/user-attachments/assets/dae8b7e3-c009-4554-9fa7-bdba6b9d961e" />
+<br>
+So this is my first key and I have to compleye like 112 of them.. wish me luck gng: 
+<img width="547" height="393" alt="image" src="https://github.com/user-attachments/assets/7b4b30f2-5739-4781-9986-5498e67606a2" />
+<br>
+
+
+
+
+
+
+
 
 
 
