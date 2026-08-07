@@ -108,6 +108,10 @@ Looks good gng.. i need to structure it:
 Done with the key matrix.. Loooks finne gng: 
 <img width="966" height="380" alt="image" src="https://github.com/user-attachments/assets/775f3dfd-5e93-4e2b-a4ab-09041afd61ba" />
 <br>
+So I just realised that my mcu has shorter pins to the number of pins I need so i gotta look up for some other mcu :(.. So i found ESP-S3 for my keyboard as it has 45! gp pins and nicennao only has .. LAME NICENNAO: 
+<img width="505" height="394" alt="image" src="https://github.com/user-attachments/assets/9000aa51-4619-42f4-ae74-d825e770704a" />
+<br>
+
 
 
 
