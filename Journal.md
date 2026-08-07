@@ -102,7 +102,9 @@ So this is my first key and I have to compleye like 112 of them.. wish me luck g
 <br>
 So far so good gng yayay: 
 <img width="862" height="500" alt="image" src="https://github.com/user-attachments/assets/09e50d82-f166-48fe-b86c-fdafd9d43f70" />
-
+Looks good gng.. i need to structure it: 
+<img width="1132" height="455" alt="image" src="https://github.com/user-attachments/assets/04d1773a-0d1f-4489-a6cf-ab2cd4e925e2" />
+<br>
 
 
 
