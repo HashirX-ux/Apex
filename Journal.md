@@ -105,6 +105,9 @@ So far so good gng yayay:
 Looks good gng.. i need to structure it: 
 <img width="1132" height="455" alt="image" src="https://github.com/user-attachments/assets/04d1773a-0d1f-4489-a6cf-ab2cd4e925e2" />
 <br>
+Done with the key matrix.. Loooks finne gng: 
+<img width="966" height="380" alt="image" src="https://github.com/user-attachments/assets/775f3dfd-5e93-4e2b-a4ab-09041afd61ba" />
+<br>
 
 
 
