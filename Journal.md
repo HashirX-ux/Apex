@@ -111,6 +111,11 @@ Done with the key matrix.. Loooks finne gng:
 So I just realised that my mcu has shorter pins to the number of pins I need so i gotta look up for some other mcu :(.. So i found ESP-S3 for my keyboard as it has 45! gp pins and nicennao only has .. LAME NICENNAO: 
 <img width="505" height="394" alt="image" src="https://github.com/user-attachments/assets/9000aa51-4619-42f4-ae74-d825e770704a" />
 <br>
+<img width="1053" height="656" alt="image" src="https://github.com/user-attachments/assets/02a8a113-569f-46c3-a161-5f854fa8d9d8" />
+<br>
+The schematic is massive gng 
+<img width="600" height="765" alt="image" src="https://github.com/user-attachments/assets/d7009cbd-4b0a-4fb6-8f63-a0ec183cbd03" />
+<br>
 
 
 
