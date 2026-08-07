@@ -124,6 +124,9 @@ https://forum.kicad.info/t/solved-what-is-a-proper-way-to-model-xtal-in-kicad/22
 Looks good But u still gotta make some tweaks.... 
 <img width="821" height="767" alt="image" src="https://github.com/user-attachments/assets/57afeaaa-6977-4d2f-91f3-5ee4e3f4ae52" />
 <br>
+CHANGE IN PLAN I REPEAT CHANGE IN PLAN!!.. I just found that I can just use Nordic nRF52840.. Gosh my 2 braincells cant figure ts out.. 
+<img width="571" height="350" alt="image" src="https://github.com/user-attachments/assets/8696f91b-d506-4387-9076-dea87f172c59" />
+<br>
 
 
 
