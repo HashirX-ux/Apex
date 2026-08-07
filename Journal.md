@@ -116,6 +116,11 @@ So I just realised that my mcu has shorter pins to the number of pins I need so 
 The schematic is massive gng 
 <img width="600" height="765" alt="image" src="https://github.com/user-attachments/assets/d7009cbd-4b0a-4fb6-8f63-a0ec183cbd03" />
 <br>
+Now I am gonna start building the crystal oscillator using this guide: 
+<br>
+https://forum.kicad.info/t/solved-what-is-a-proper-way-to-model-xtal-in-kicad/22954
+<img width="608" height="691" alt="image" src="https://github.com/user-attachments/assets/24bb06d2-5f5a-46ce-8dd1-14a54f55f283" />
+<br>
 
 
 
