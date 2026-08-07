@@ -121,6 +121,9 @@ Now I am gonna start building the crystal oscillator using this guide:
 https://forum.kicad.info/t/solved-what-is-a-proper-way-to-model-xtal-in-kicad/22954
 <img width="608" height="691" alt="image" src="https://github.com/user-attachments/assets/24bb06d2-5f5a-46ce-8dd1-14a54f55f283" />
 <br>
+Looks good But u still gotta make some tweaks.... 
+<img width="821" height="767" alt="image" src="https://github.com/user-attachments/assets/57afeaaa-6977-4d2f-91f3-5ee4e3f4ae52" />
+<br>
 
 
 
