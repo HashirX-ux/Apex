@@ -127,6 +127,9 @@ Looks good But u still gotta make some tweaks....
 CHANGE IN PLAN I REPEAT CHANGE IN PLAN!!.. I just found that I can just use Nordic nRF52840.. Gosh my 2 braincells cant figure ts out.. 
 <img width="571" height="350" alt="image" src="https://github.com/user-attachments/assets/8696f91b-d506-4387-9076-dea87f172c59" />
 <br>
+So Now I gonna finish my rotary encoder
+<img width="958" height="508" alt="image" src="https://github.com/user-attachments/assets/909aa819-8635-4b11-9778-c339ed23b8c4" />
+<br>
 
 
 
