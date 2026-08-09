@@ -130,6 +130,9 @@ CHANGE IN PLAN I REPEAT CHANGE IN PLAN!!.. I just found that I can just use Nord
 So Now I gonna finish my rotary encoder
 <img width="958" height="508" alt="image" src="https://github.com/user-attachments/assets/909aa819-8635-4b11-9778-c339ed23b8c4" />
 <br>
+Now Gotta build the charger: 
+<img width="731" height="486" alt="image" src="https://github.com/user-attachments/assets/b3df7638-bede-49d4-b24b-fe79a536f595" />
+<br>
 
 
 
