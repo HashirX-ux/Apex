@@ -133,6 +133,9 @@ So Now I gonna finish my rotary encoder
 Now Gotta build the charger: 
 <img width="731" height="486" alt="image" src="https://github.com/user-attachments/assets/b3df7638-bede-49d4-b24b-fe79a536f595" />
 <br>
+The LED voltage regulator looks good.. 
+<img width="909" height="529" alt="image" src="https://github.com/user-attachments/assets/bb2a5cf2-c8b1-4d2a-b87b-a3129a2f6ffa" />
+<br>
 
 
 
