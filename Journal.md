@@ -139,6 +139,9 @@ The LED voltage regulator looks good..
 Holy hell
 <img width="691" height="443" alt="image" src="https://github.com/user-attachments/assets/02a9501a-e025-4bcf-96d7-10a9de1dfffc" />
 <br>
+im genius IM just GENIUS
+<img width="832" height="487" alt="image" src="https://github.com/user-attachments/assets/4a688f89-d84b-4e4a-85ba-72b8203a3aa2" />
+<br>
 
 
 
