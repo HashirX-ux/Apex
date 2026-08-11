@@ -136,6 +136,9 @@ Now Gotta build the charger:
 The LED voltage regulator looks good.. 
 <img width="909" height="529" alt="image" src="https://github.com/user-attachments/assets/bb2a5cf2-c8b1-4d2a-b87b-a3129a2f6ffa" />
 <br>
+Holy hell
+<img width="691" height="443" alt="image" src="https://github.com/user-attachments/assets/02a9501a-e025-4bcf-96d7-10a9de1dfffc" />
+<br>
 
 
 
