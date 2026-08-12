@@ -142,6 +142,9 @@ Holy hell
 im genius IM just GENIUS
 <img width="832" height="487" alt="image" src="https://github.com/user-attachments/assets/4a688f89-d84b-4e4a-85ba-72b8203a3aa2" />
 <br>
+Almost done with the rgb lights.. 
+<img width="1241" height="386" alt="image" src="https://github.com/user-attachments/assets/09fb1086-2768-4d70-bde1-45d2b04e578f" />
+<br>
 
 
 
