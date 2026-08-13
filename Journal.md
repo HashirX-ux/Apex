@@ -145,6 +145,8 @@ im genius IM just GENIUS
 Almost done with the rgb lights.. 
 <img width="1241" height="386" alt="image" src="https://github.com/user-attachments/assets/09fb1086-2768-4d70-bde1-45d2b04e578f" />
 <br>
+So far so good ..
+<img width="817" height="366" alt="image" src="https://github.com/user-attachments/assets/738318e5-c1a7-479b-9e90-dead9345b358" />
 
 
 
