@@ -150,6 +150,10 @@ So far so good ..
 Done with the LEDs ayayay
 <img width="1138" height="499" alt="image" src="https://github.com/user-attachments/assets/02727ae9-5238-4f2e-a0a6-a4ce945f583b" />
 <br>
+So I finally done with the schematic Now ILL be moving towards routing.. 
+<img width="1147" height="804" alt="image" src="https://github.com/user-attachments/assets/249bc230-e90c-42b5-951e-877a0923e6d5" />
+<br>
+<img width="1172" height="449" alt="image" src="https://github.com/user-attachments/assets/a1675acf-cfe6-4d27-836c-903b386b33d8" />
 
 
 
