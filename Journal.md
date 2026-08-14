@@ -154,7 +154,9 @@ So I finally done with the schematic Now ILL be moving towards routing..
 <img width="1147" height="804" alt="image" src="https://github.com/user-attachments/assets/249bc230-e90c-42b5-951e-877a0923e6d5" />
 <br>
 <img width="1172" height="449" alt="image" src="https://github.com/user-attachments/assets/a1675acf-cfe6-4d27-836c-903b386b33d8" />
-
+I have no idea how am I even gonna route ts.. wish me luck bois.. 
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/4ec198a8-6e4d-42d9-8e71-893225427759" />
+<br>
 
 
 
