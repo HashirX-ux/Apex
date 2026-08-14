@@ -147,7 +147,9 @@ Almost done with the rgb lights..
 <br>
 So far so good ..
 <img width="817" height="366" alt="image" src="https://github.com/user-attachments/assets/738318e5-c1a7-479b-9e90-dead9345b358" />
-
+Done with the LEDs ayayay
+<img width="1138" height="499" alt="image" src="https://github.com/user-attachments/assets/02727ae9-5238-4f2e-a0a6-a4ce945f583b" />
+<br>
 
 
 
