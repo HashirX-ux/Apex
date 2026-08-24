@@ -159,6 +159,8 @@ I have no idea how am I even gonna route ts.. wish me luck bois..
 <br>
 Structure is complete.. Now I just gotta route it.. whish me luck gng..
 <img width="979" height="282" alt="image" src="https://github.com/user-attachments/assets/3df95848-0f35-44c4-9580-21ff8242f7dc" />
+So far so good gng :D
+<img width="1003" height="269" alt="image" src="https://github.com/user-attachments/assets/77578805-4c7b-4583-be9e-9f18b9db71b7" />
 
 
 
