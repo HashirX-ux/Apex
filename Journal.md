@@ -161,6 +161,8 @@ Structure is complete.. Now I just gotta route it.. whish me luck gng..
 <img width="979" height="282" alt="image" src="https://github.com/user-attachments/assets/3df95848-0f35-44c4-9580-21ff8242f7dc" />
 So far so good gng :D
 <img width="1003" height="269" alt="image" src="https://github.com/user-attachments/assets/77578805-4c7b-4583-be9e-9f18b9db71b7" />
+Yoo why ts looks this ugly.. 
+<img width="665" height="519" alt="image" src="https://github.com/user-attachments/assets/b17c7de9-f4c5-49b4-8ccc-077df5d928f4" />
 
 
 
