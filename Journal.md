@@ -163,8 +163,9 @@ So far so good gng :D
 <img width="1003" height="269" alt="image" src="https://github.com/user-attachments/assets/77578805-4c7b-4583-be9e-9f18b9db71b7" />
 Yoo why ts looks this ugly.. 
 <img width="665" height="519" alt="image" src="https://github.com/user-attachments/assets/b17c7de9-f4c5-49b4-8ccc-077df5d928f4" />
-
-
+<br>
+How am I even suppose to route ts..
+<img width="668" height="614" alt="image" src="https://github.com/user-attachments/assets/30d2f51f-f191-4705-b5d3-cf85e8514b8c" />
 
 
 
