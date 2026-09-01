@@ -1,0 +1,15 @@
+if SHIELD_APEX
+
+config ZMK_KEYBOARD_NAME
+    default "Apex"
+
+config ZMK_USB
+    default y
+
+config ZMK_BLE
+    default y
+
+config ZMK_EXT_POWER
+    default y
+
+endif

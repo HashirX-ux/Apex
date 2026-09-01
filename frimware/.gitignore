@@ -1,0 +1,6 @@
+# ZMK / build outputs
+build/
+.cache/
+zephyr/
+__pycache__/
+*.log
