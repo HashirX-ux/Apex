@@ -2,7 +2,7 @@
 
 **Project Name:** Apex  
 **Start Date:** 2026-01-08  
-**Status:** In Progress
+**Status:** Completed
 
 ## Overview
 Apex is a wireless mechanical keyboard built for productivity and daily tasks.
