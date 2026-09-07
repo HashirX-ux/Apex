@@ -28,7 +28,7 @@ On top of a standard full size layout it adds:
 
 ## Why I built it
 
-I wanted a Keyboard that belongs to me not to any company to I build it. 
+I wanted a Keyboard that belongs to me not to any company so I build my own keyboard. 
 
 ---
 
