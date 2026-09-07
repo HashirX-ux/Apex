@@ -8,7 +8,7 @@
 [![Firmware](https://img.shields.io/badge/firmware-ZMK-00599C?style=flat-square)]()
 [![Wireless](https://img.shields.io/badge/wireless-BLE%205.0-blueviolet?style=flat-square)]()
 
-> A fully wireless full-size mechanical keyboard built from scratch custom PCB, per key RGB, BLE 5.0, Kailh hot-swap, 0.91" OLED, rotary encoder, and a 3D-printed case. Designed for daily work. Routed by hand.
+> A fully wireless full size mechanical keyboard built from custom PCB, per key RGB, BlE 5.0, Kailh hot swap, 0.91" OLED, rotary encoder, and a 3D printed case. Designed for daily work. 
 
 ---
 
@@ -18,7 +18,7 @@ Apex is a custom **112-key full size** wireless mechanical keyboard I designed f
 
 The PCB is designed in **KiCad**, the case in **FreeCAD**, and the firmware runs on **ZMK**. It talks over Bluetooth 5.0 on a Nordic **nRF52840**, charges a 1500 mAh LiPo through an MCP73831, and uses **Kailh MX hot swap sockets** so switches come out without a soldering iron.
 
-On top of a standard full-size layout it adds:
+On top of a standard full size layout it adds:
 
 - a **0.91" SSD1306 OLED** (128×32, I²C) for layer / battery / connection status
 - an **EC11 rotary encoder** with push switch (volume and extras)
