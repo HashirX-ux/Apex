@@ -6,17 +6,15 @@
 [![MCU](https://img.shields.io/badge/MCU-nRF52840-black?style=flat-square)]()
 [![PCB](https://img.shields.io/badge/PCB-KiCad-314CB0?style=flat-square)]()
 [![Firmware](https://img.shields.io/badge/firmware-ZMK-00599C?style=flat-square)]()
-[![Wireless](https://img.shields.io/badge/wireless-BLE%205.0-blueviolet?style=flat-square)]()
-
-> A fully wireless full size mechanical keyboard built from custom PCB, per key RGB, BlE 5.0, Kailh hot swap, 0.91" OLED, rotary encoder, and a 3D printed case. Designed for daily work. 
+[![Wireless](https://img.shields.io/badge/wireless-BLE%205.0-blueviolet?style=flat-square)]()`
 
 ---
 
 ## What is it?
 
-Apex is a custom **112-key full size** wireless mechanical keyboard I designed from the ground up after building a macropad and deciding a store-bought board would never feel like mine.
+Apex is a custom **112 key full size** wireless mechanical keyboard I designed from the ground up after building a macropad and deciding a store bought board would never feel like mine.
 
-The PCB is designed in **KiCad**, the case in **FreeCAD**, and the firmware runs on **ZMK**. It talks over Bluetooth 5.0 on a Nordic **nRF52840**, charges a 1500 mAh LiPo through an MCP73831, and uses **Kailh MX hot swap sockets** so switches come out without a soldering iron.
+The PCB is designed in **KiCad**, the case in **FreeCAD**, and the firmware is on **ZMK**. 
 
 On top of a standard full size layout it adds:
 
@@ -25,15 +23,12 @@ On top of a standard full size layout it adds:
 - an onboard **buzzer** driven by a 2N3904
 - **per-key SK6812 Mini E** reverse mount RGB
 
-Build log: [`Journal.md`](Journal.md)
 
 ---
 
 ## Why I built it
 
-I already knew I could finish a macropad. A full keyboard is a different machine matrix size, power, RF, a case you actually live with. I did not want to spend $200+ on something that still was not fully mine.
-
-Apex is the daily driver version of that idea: wireless, full-size, OLED, encoder, hot swap, RGB. Every part on the board is a choice I can point to.
+I wanted a Keyboard that belongs to me not to any company to I build it. 
 
 ---
 
@@ -41,10 +36,10 @@ Apex is the daily driver version of that idea: wireless, full-size, OLED, encode
 
 - 112 keys, full size layout (ANSI 104 + 8 extra keys)
 - 8×14 col2row matrix
-- Wireless BLE 5.0 via Nordic nRF52840 (AQFN-73)
+- Wireless BLE 5.0 via Nordic nRF52840 (AQFN- 73)
 - USB C wired + wireless dual mode
-- Per-key SK6812 Mini E RGB, reverse-mounted
-- Kailh MX hot-swap sockets   no soldering to swap switches
+- Per-key SK6812 Mini E RGB, reverse mounted
+- Kailh MX hot-swap sockets  
 - 0.91" OLED (SSD1306, 128×32, I²C)
 - EC11 rotary encoder with push switch
 - Onboard buzzer (2N3904 driver)
@@ -58,33 +53,6 @@ Apex is the daily driver version of that idea: wireless, full-size, OLED, encode
 
 ---
 
-## Hardware Specs
-
-| Component | Details |
-|---|---|
-| MCU | Nordic nRF52840-QIAA, AQFN-73 7×7 mm |
-| Layout | Full-size, 112 keys (ANSI 104 + 8 extras) |
-| Matrix | 8 rows × 14 columns, col2row |
-| Switches | MX-compatible 5-pin, PCB mount × 112 |
-| Hot-swap | Kailh CPG151101S11 MX sockets × 112 |
-| LEDs | SK6812 Mini-E × 112, reverse mount on B.Cu |
-| OLED | 0.91" 128×32 SSD1306, I²C (ER-OLED0.91) |
-| Encoder | Alps EC11, 20 mm, with push switch |
-| Buzzer | 12×9.5 mm, 2N3904 NPN driver |
-| Wireless | Bluetooth 5.0 BLE |
-| Wired | USB-C, dual-mode with BLE |
-| Firmware | ZMK |
-| Battery | 3.7 V LiPo 1500 mAh, JST PH 2.0 |
-| Charger IC | MCP73831-2-MC, DFN-8 |
-| Level shifter | 74AHCT125, TSSOP-14 |
-| ESD protection | USBLC6-2SC6, SOT-23-6 |
-| USB connector | GCT USB4105, 16-pin USB-C |
-| Crystal | 32 MHz, 2016 4-pin, 12 pF load caps |
-| Reset | SMD tactile, CK KMR2 |
-| Fuse | 500 mA resettable, 1206 |
-| PCB | 2-layer, FR-4, 1.6 mm, KiCad / JLCPCB |
-| Case | 3D printed, FreeCAD |
-| Status LED | 0603 SMD |
 
 ZMK is currently targeted at `nice_nano_v2` as a bring up stand in. The PCB carries a **bare nRF52840** (not a Pro Micro module). Pin mapping on the real board is still being finished see [Firmware](#flash-the-firmware).
 
@@ -119,23 +87,6 @@ Firmware lives in [`frimware/`](frimware/) and is a **ZMK skeleton**, not the fi
 
 The overlay (`frimware/config/boards/shields/apex/apex.overlay`) is still a 5×14 bring up matrix. The PCB is **8×14 / 112 keys**. Next step is mapping the real nRF52840 pins, OLED, encoder, buzzer, and the 112 LED chain.
 
-### Assembly Notes
-
-- Solder **SK6812 Mini E** on **B.Cu**, reverse mount, emitting down through the switch holes
-- Solder **Kailh hot-swap sockets** on **F.Cu**
-- Each key gets a **1N4148W (SOD-123)** in the matrix
-- Each LED gets a **100 nF 0805** decoupling cap next to it
-- Place the **32 MHz crystal** and two **12 pF** caps as close to the nRF52840 as the layout allows
-- **74AHCT125** shifts `LED_DATA_3V3` to 5 V `LED_DATA_OUT` — VCC of the shifter must be 5 V
-- OLED on I²C: `SDA` / `SCL`, address `0x3C`
-- Encoder: `ENC_A` / `ENC_B`, 20 mm EC11 with switch
-- Buzzer: GPIO → **2N3904** (TO-92) → buzzer; **330 Ω** base resistor
-- Battery: **JST PH 2.0** 2-pin on **J2**, 1500 mAh 3.7 V LiPo
-- USB-C on **J1** (GCT USB4105) with **USBLC6-2SC6** on D+/D− and **5.1 kΩ** CC resistors
-- Reset is **SW114** (KMR2 tactile)
-- The nRF52840 AQFN-73 is 0.5 mm pitch use stencil + hot plate / reflow, not a hobby iron as the first tool
-
----
 
 ## BOM
 
