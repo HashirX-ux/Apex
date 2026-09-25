@@ -21,6 +21,8 @@
 ## CAD
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/63241a25-752d-4432-b041-eaf5699d439a" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f85829ef-b15a-4b05-bd4b-299c1e7e83bb" />
+<img width="971" height="244" alt="image" src="https://github.com/user-attachments/assets/80b8c539-2138-4fb7-a697-518a3ed6fc1b" />
+<img width="754" height="514" alt="image" src="https://github.com/user-attachments/assets/df252d8b-083e-4888-9ab9-93b5a660f60b" />
 
 
 
